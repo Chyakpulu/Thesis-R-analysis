@@ -1,1 +1,1 @@
-# Thesis-R-analysis
+# Code repository for [Early-life Gut Microbiome and Resistome Trajectories and their Determinants in a Northern-Nigerian Birth Cohort]. Scripts are currently being finalised and will be uploaded by July, 2026.
