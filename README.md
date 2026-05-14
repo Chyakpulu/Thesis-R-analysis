@@ -1,1 +1,3 @@
-# Code repository for [Early-life Gut Microbiome and Resistome Trajectories and their Determinants in a Northern-Nigerian Birth Cohort]. Scripts are currently being finalised and will be uploaded by July, 2026.
+# Thesis Code Repository 
+**Title:** Early-life Gut Microbiome and Resistome Trajectories and their Determinants in a Northern-Nigerian Birth Cohort. 
+The R scripts used for this analysis are currently being finalised. The complete codebase will be uploaded by July 2026.
